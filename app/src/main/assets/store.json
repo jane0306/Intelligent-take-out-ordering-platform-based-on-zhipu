@@ -1,0 +1,52 @@
+[
+  {
+    "name": "味觉狂热",
+    "img": "store/味觉狂热.jpg",
+    "description": "热衷于追求独特味觉体验的美食店。"
+  },
+  {
+    "name": "食尚时光",
+    "img": "store/食尚时光.jpg",
+    "description": "时光餐厅，汇聚美味与潮流，为您打造独特的用餐时光。"
+  },
+  {
+    "name": "美味家园",
+    "img": "store/美味家园.jpg",
+    "description": "以家的温馨为基调，带给您美味的家常味道。"
+  },
+  {
+    "name": "快乐食坊",
+    "img": "store/快乐食坊.jpg",
+    "description": "让您在快乐中享受美味的小吃和特色餐点。"
+  },
+  {
+    "name": "食尚达人",
+    "img": "store/食尚达人.jpg",
+    "description": "由烹饪达人打造，为您带来高品质的美食体验。"
+  },
+  {
+    "name": "美食之旅",
+    "img": "store/美食之旅.jpg",
+    "description": "带领您展开一场充满美味的口腹之旅。"
+  },
+  {
+    "name": "小食大想象",
+    "img": "store/小食大想象.jpg",
+    "description": "突破传统，以创意小食满足您的味蕾想象。"
+  },
+  {
+    "name": "味蕾盛宴",
+    "img": "store/味蕾盛宴.jpg",
+    "description": "味蕾的盛宴，为您提供多样化的美味选择。"
+  },
+  {
+    "name": "餐前一刻",
+    "img": "store/餐前一刻.jpg",
+    "description": "在用餐之前，预备迎接美味的那一刻。"
+  },
+  {
+    "name": "味之源",
+    "img": "store/味之源.jpg",
+    "description": "寻找美食的源头，为您呈现纯正美味。"
+  }
+]

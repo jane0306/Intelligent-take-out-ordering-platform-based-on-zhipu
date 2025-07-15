@@ -1,0 +1,62 @@
+[
+  {
+    "name": "云之芳华",
+    "img": "food/云之芳华.jpg",
+    "description": "浓郁的云雾中散发出的美妙风味，仿佛置身仙境。",
+    "price": 48.50
+  },
+  {
+    "name": "霓虹之舞",
+    "img": "food/霓虹之舞.jpg",
+    "description": "色彩斑斓的食材搭配，为您带来一场舌尖上的视觉盛宴。",
+    "price": 35.75
+  },
+  {
+    "name": "星辰璀璨",
+    "img": "food/星辰璀璨.jpg",
+    "description": "星光点缀的美味，让味蕾在璀璨中舞动。",
+    "price": 62.90
+  },
+  {
+    "name": "梦幻之味",
+    "img": "food/梦幻之味.jpg",
+    "description": "梦幻般的口感，带您走进美好的味觉世界。",
+    "price": 40.25
+  },
+  {
+    "name": "柔情画意",
+    "img": "food/柔情画意.jpg",
+    "description": "细腻柔情的风味，如同一幅唯美的画作。",
+    "price": 55.80
+  },
+  {
+    "name": "露西亚的秘密",
+    "img": "food/露西亚的秘密.jpg",
+    "description": "隐藏的美味，让您品味到独特的露西亚风情。",
+    "price": 75.00
+  },
+  {
+    "name": "诗意盛宴",
+    "img": "food/诗意盛宴.jpg",
+    "description": "用诗意编织的美食，为您带来心灵的愉悦。",
+    "price": 58.20
+  },
+  {
+    "name": "画框中的香气",
+    "img": "food/画框中的香气.jpg",
+    "description": "香气四溢的美食，如同画框中的香艳芬芳。",
+    "price": 42.90
+  },
+  {
+    "name": "艺术之盘",
+    "img": "food/艺术之盘.jpg",
+    "description": "精致的艺术品味，呈现在您的餐盘上。",
+    "price": 65.50
+  },
+  {
+    "name": "音符之馔",
+    "img": "food/音符之馔.jpg",
+    "description": "音符跳动的旋律，奏响美味的交响曲。",
+    "price": 48.75
+  }
+]
